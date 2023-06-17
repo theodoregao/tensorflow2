@@ -1,6 +1,9 @@
+.DS_Store
 .Python
 .idea
+.ipynb_checkpoints
 bin
+cifar-10-batches-py
 etc
 lib
 share
