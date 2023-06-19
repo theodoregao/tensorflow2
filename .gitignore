@@ -7,3 +7,4 @@ cifar-10-batches-py
 etc
 lib
 share
+tensorboard
