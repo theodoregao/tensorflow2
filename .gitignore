@@ -8,3 +8,4 @@ etc
 lib
 share
 tensorboard
+prebuilt_net
