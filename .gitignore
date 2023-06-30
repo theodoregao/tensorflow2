@@ -5,7 +5,9 @@
 bin
 cifar-10-batches-py
 etc
+img
 lib
+prebuilt_net
+run_style_stransfer
 share
 tensorboard
-prebuilt_net
